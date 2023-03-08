@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Student of University of Minho: Master in Software Engineering
 - 🔭 I’m currently finishing my Master's Thesis on developing a digital repository of documents and automated construction of a Virtual Museum about an historical pilgrimage in Portugal. 
 
-- 💬 I'm passionate about software development in general but with special interest in the areas of Language Processing and Web Development.  I aspire to work as a Full Stack developer, with a willingness for self-improvement, always looking to learn more.
+- 🌱 I'm passionate about software development in general but with special interest in the areas of Language Processing and Web Development.  I aspire to work as a Full Stack developer, with a willingness for self-improvement, always looking to learn more.
 
 ### :fire: My Stats :
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
 
